@@ -2,7 +2,7 @@
 pragma solidity ^0.8.13;
 
 // import Openzeppelin Ownable contract
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
 // inherit from Ownable contract 
 contract Assignment9 is Ownable {
